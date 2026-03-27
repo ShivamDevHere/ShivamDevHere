@@ -1,6 +1,6 @@
 ## Greetings 👋
 - 🤖 I'm Shivam Srivastava, Pushing myself to be Expert in Python.
-
+- I am man of my words
 - 🌱Currently learning NLP.
 
 - ⚡Next target is ML.
