@@ -1,7 +1,9 @@
 ## Greetings 👋
 - 🤖 I'm Shivam Srivastava, Pushing myself to be Expert in Python.
 - I am man of my words
-- 🌱Currently learning NLP.
+
+- 🤖Currently learning Mern.
+- 🌱Final target is NLP.
 
 - ⚡Next target is ML.
 - 💪My consistency is high.
