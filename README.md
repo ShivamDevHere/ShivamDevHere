@@ -1,13 +1,14 @@
 ## Greetings 👋
 - 🤖 I'm Shivam Srivastava, Pushing myself to be Expert in Python.
-- I am man of my words
 
-- 🤖Currently learning Mern.
+
 - 🌱Final target is NLP.
 
-- ⚡Next target is ML.
+- ⚡Init: target is ML.
+- 🤖Completed learning Mern.
 - 💪My consistency is high.
 
+  
 <!--
 **Shivam-dev-here/Shivam-dev-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
