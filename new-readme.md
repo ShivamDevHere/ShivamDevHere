@@ -1,14 +1,40 @@
-# 💫 About Me
+## 💫 About Me
 
-- 🤖 I'm Shivam Srivastava, Pushing myself to be Expert in Artificial Intelligence.
+<table align="center">
+<tr>
+<td width="30%" align="center">
+
+<img src="./images/profile.png" width="220px" alt="Shivam Srivastava">
+
+</td>
+
+<td width="70%" align="center" style="white-space: nowrap;">
+<h3 style="white-space: nowrap;">Shivam Srivastava | Mastering Artificial Intelligence.</h3>
+
+🚀 Building **AI-powered applications** with interaction of **Web + ML**.
+
+🔭 **Currently Building:** End-to-End Deep Learning Projects with **ANN**
+
+🧠 **Learning:** CNN • Computer Vision • Deep Learning
+
+🤝 **Open to Collaborate:** AI/ML & CNN Projects
+
+---
+💻 **Tech:** Python • ML • DL • MERN • Next.js • DSA
+
+⚡ **Mindset:** *Slow progress is still progress — I never stop.*
+
+</td>
+</tr>
+</table>
+
+
 
 🔭 Currently working on **End-to-End Deep Learning Projects using ANN**
 
 🌱 Currently implementing **CNN architectures**
 
 👯 Looking to collaborate on **CNN projects**
-
-🤝 Looking for help with **Transformers**
 
 💬 Ask me about **ML, DL, MERN, Python, and DSA**
 
@@ -52,22 +78,18 @@
 
 # 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img width="49%" src="https://github-readme-stats.shion.dev/api?username=shivamdevhere&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=shivamdevhere&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shivamdevhere&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
-<p><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shivamdevhere&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-<i>💫 Keep learning. Keep building. Never stop.</i></p>
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=shivamdevhere&theme=tokyonight&hide_border=false" alt="GitHub Streak" align="middle">
+</p>
 
 ---
 
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
-
----
+<p align="center"><i>💫 Keep learning. Keep building. Never stop.</i></p>
 
 
 
