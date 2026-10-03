@@ -1,5 +1,5 @@
 ## 💫 About Me
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4034&pause=700&color=10BAF7&center=true&vCenter=true&width=700&height=130&lines=%F0%9F%94%A5+ShivamDevHere+%7C+Turning+Curiosity+into+Intelligence;%F0%9F%8E%96%EF%B8%8F+Building+Across+Stack+%7C+MERN+%E2%80%A2+Next.js;%E2%9A%A1+Building+Intelligent+Systems+%7C+DL+%E2%80%A2+CNN+%E2%80%A2+CV;%F0%9F%A7%A0+Engineer+by+Logic+%7C+AI%2FML+by+Passion" alt="Typing SVG" /></a>
 <table align="center">
 <tr>
 <td width="30%" align="center">
