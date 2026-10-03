@@ -32,11 +32,7 @@
 
 # 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/ShivamDevHere)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/ShivamDevHere)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://youtube.com/@UCKo05n0fhdk6YDmwo33o_uQ)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:shivamdevhere@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox\&logoColor=%23FF7139)](https://portfolio-ruby-one-66.vercel.app/about)
+### Click to view: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/ShivamDevHere) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/ShivamDevHere) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube\&logoColor=white)](https://youtube.com/@UCKo05n0fhdk6YDmwo33o_uQ) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:shivamdevhere@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox\&logoColor=%23FF7139)](https://portfolio-ruby-one-66.vercel.app/about)
 
 ---
 
